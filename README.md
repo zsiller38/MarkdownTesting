@@ -10,7 +10,7 @@
 3.
 4.
 
-* today I went to the store*
+*today I went to the store*
 
-** I also got ice cream **
+**I also got ice cream**
 
